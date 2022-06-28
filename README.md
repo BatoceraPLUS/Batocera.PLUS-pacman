@@ -1,1 +1,0 @@
-# Batocera.PLUS-pacman
